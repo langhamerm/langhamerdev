@@ -18,6 +18,7 @@ img {
     /* left: calc(45% - 300px); */
     display: flex;
     text-align: center;
+    
 }
 .card {
     /* display: flex; */
